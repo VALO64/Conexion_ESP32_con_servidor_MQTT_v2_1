@@ -25,6 +25,11 @@
 ![image](https://github.com/user-attachments/assets/23d85e68-7ae0-4ed4-a42b-7ccb562aa576)
 ![image](https://github.com/user-attachments/assets/c0b6a82f-25c6-48b6-8550-6b40e379ae2f)
 
+## **Librerias necesarias para node red**
+-------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/2d05d1f4-8b2c-478b-9725-b19d6f878e7d)
+![image](https://github.com/user-attachments/assets/2fde5b1b-3e84-4cd2-ae03-4c905be2b34d)
+
 ## **UI con Node-Red**
 -------------------------------------------------------------------------------------------
 ### **Panel de control general**
